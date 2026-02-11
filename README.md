@@ -5,7 +5,7 @@ Simulate charged particles (microspheres / ions / electrons) in RF Paul traps us
 - **Analytic fields** (idealized quadrupole / linear trap)
 - **Numeric fields from CAD electrodes** (Gmsh tetra mesh + scikit-fem basis potentials)
 
-The main entrypoint is a **Tkinter GUI**: `trap_gui.py`. Background notes are in `Paul_Trap_Simulator.pdf`.
+The main entrypoint is a **Tkinter GUI**: `trap_gui.py`.
 
 ## Features
 
